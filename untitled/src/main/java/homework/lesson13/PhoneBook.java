@@ -33,7 +33,7 @@ public class PhoneBook {
         phoneBook.add("Ivanov", "255698");
         phoneBook.add("Ivanov", "589636");
         phoneBook.add("Petrov", "789685");
-        phoneBook.add("Sidorov", "158789");
+        phoneBook.add("Sidorov", "158787");
         phoneBook.search("Ivanov");
         phoneBook.search("Petrov");
         phoneBook.search("Sidorov");
